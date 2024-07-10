@@ -1,0 +1,1 @@
+web: gunicorn Flasify.wsgi --log-file -
